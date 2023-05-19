@@ -1,7 +1,7 @@
-# predicting-home-prices
+# 🏡 Predicting Home Prices 💵
 Using machine learning algorithm to determines home prices. Contain a written reports, code, and data.
 
-## Abstract
+## :bookmark_tabs: Abstract
 For new home buyers, the process of purchasing a house and putting it in a bid could seem
 daunting due to the price tag. The determination of the appropriate worth of a home could mean
 the difference between thousands of savings or extra costs for the buyer. Additionally, knowing
